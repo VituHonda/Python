@@ -1,1 +1,1 @@
-# Python
+# Repositóri para armazenar estudos Python
